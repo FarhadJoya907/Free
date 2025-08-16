@@ -1,10 +1,10 @@
 
 * FARHADJOYA
-* Paid
+* FREE
 
 ```
 git clone https://github.com/FarhadJoya907/Paid
-cd Paid
+cd Free
 python3 Run.py
 ```
 
