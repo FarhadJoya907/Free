@@ -3,7 +3,7 @@
 * FREE
 
 ```
-git clone https://github.com/FarhadJoya907/Paid
+git clone https://github.com/FarhadJoya907/free
 cd Free
 python3 Run.py
 ```
